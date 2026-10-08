@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "useConfigurationFile": false,
+  "patterns": [
+    {
+      "id": "PHPCSFIXER_array_syntax",
+      "enabled": true,
+      "parameters": [
+        {
+          "name": "syntax",
+          "value": "long"
+        }
+      ]
+    }
+  ]
+}
