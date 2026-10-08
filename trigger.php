@@ -1,5 +1,6 @@
 <?php
 
+
 declare(strict_types=1);
 
 // With repository configuration disabled and the managed array_syntax rule
